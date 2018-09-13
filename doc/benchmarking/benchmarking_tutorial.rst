@@ -3,7 +3,9 @@ Benchmarking
 
 .. note:: This is the new benchmarking method only available in ROS Kinetic, onward.
 
-.. note:: To use this benchmarking method, you will need to download and install the ROS Warehouse plugin. Currently this is not available from Debians and requires a source install for at least some aspects. For source instructions, see `this page <http://moveit.ros.org/install/source/dependencies/>`_
+.. note:: To use this benchmarking method, you will need to download and install the ROS Warehouse plugin. This is available as a binary or from source. For source instructions, see `this page <http://moveit.ros.org/install/source/dependencies/>`_ or run
+
+``sudo apt-get install ros-kinetic-moveit-ros-warehouse ros-kinetic-warehouse-ros``
 
 Getting Started
 ---------------
